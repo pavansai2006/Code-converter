@@ -1,4 +1,4 @@
-module comparator(B2,B1,B0,G2,G1,G0);
+module bin_to_gray(B2,B1,B0,G2,G1,G0);
   input B2,B1,B0;
   output reg G2,G1,G0;
   
